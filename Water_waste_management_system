@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>WaterWastageInCampus</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+</style>
+</head>
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-padding w3-card" style="letter-spacing:4px;">
+    <a href="#home" class="w3-bar-item w3-button">Water Wastage In LPU Campus</a>
+    <!-- Right-sided navbar links. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#about" class="w3-bar-item w3-button">About</a>
+      <a href="#contact" class="w3-bar-item w3-button">Contact</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1600px;min-width:500px" id="home">
+  <img class="w3-image" src="LPU.jpg.jpg" alt="Water Wastage" width="1600" height="800">
+  <div class="w3-display-bottomleft w3-padding-large w3-opacity">
+    <h1 class="w3-xxlarge">LPU CAMPUS</h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content" style="max-width:1100px">
+
+  <!-- About Section -->
+  <div class="w3-row w3-padding-64" id="about">
+    <div class="w3-col m6 w3-padding-large w3-hide-small">
+     <img src="https://blog.ipleaders.in/wp-content/uploads/2020/05/water-day_feature-banner.jpg" class="w3-round w3-image w3-opacity-min" alt="save water" width="600" height="1200">
+    </div>
+
+    <div class="w3-col m6 w3-padding-large">
+      <h1 class="w3-center"><h1>Importance of Water</h1><br>
+      <p class="w3-large">Water is a vital necessity for life. Nearly all known organisms require it to survive. Water also plays a crucial role in agriculture, power generation, and industry. Without it, our crops would not grow, our rivers and streams would dry up, and our energy-producing facilities would struggle to function.Water scarcity affects both human health and the environment.  TheWorld Health Orangization estimates that more than 800 million people currently lack access to clean drinking water.</p>
+      <p class="w3-large w3-text-grey w3-hide-medium">The resulting diseases and diarrhea contribute to thousands of deaths every day. Moreover, the absence of clean water leads to poor sanitation, in turn promoting the spread of waterborne diseases</p>
+    </div>
+  </div>
+  
+  <hr>
+  
+  <!-- Content Section -->
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+      <h1 class="w3-center">Major causes of Water wastage</h1><br>
+      <h4>Inadequate maintenance: </h4>
+      <p class="w3-text-grey">The existing water distribution system on the LPU campus is often in need of proper maintenance to prevent leaks and other issues. Neglecting maintenance leads to increased water usage as water flows out due to the leakage.</p><br>
+    
+      <h4>Poor system control:</h4>
+      <p class="w3-text-grey">Lack of effective control mechanisms can contribute to excessive water usage. Unregulated or improperly controlled irrigation systems, for example, can result in wastage due to excessive water usage.</p><br>
+    
+      <h4>Leaky pipes and fittings:</h4>
+      <p class="w3-text-grey"> These can cause a significant amount of water loss, as the leaking water goes unused. Replacing old or damaged pipes and fittings can help prevent such leaks.</p><br>
+    
+      <h4>Inefficient irrigation systems:</h4>
+      <p class="w3-text-grey"> Old and inefficient irrigation systems can waste a lot of water as they may not distribute it evenly throughout the plant or grass roots.</p><br>
+    
+      <h4>Non-conservation mindset:</h4>
+      <p class="w3-text-grey">Lack of awareness among the users or employees can result in unnecessary use of water. Promoting awareness programs can help mitigate this issue.</p>    
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="https://www.techvision21.com/wp-content/uploads/2015/03/Screen-Shot-2015-03-11-at-8.10.44-AM.png" class="w3-round w3-image w3-opacity-min" alt="" style="width:100%">
+      <img src="https://19january2017snapshot.epa.gov/www3/watersense/images/ws_infographics_outdoor.png" class="w3-round w3-image w3-opacity-min" alt="" style="width:100%">
+      <img src="https://as1.ftcdn.net/v2/jpg/01/97/14/56/1000_F_197145626_rS1x0DTG1xzVycfQC7Fw8mNkalu3jdZR.jpg" class="w3-round w3-image w3-opacity-min" alt="" style="width:100%">
+    </div>
+  </div>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+      <h1 class="w3-center">Effects</h1><br>
+      <h4>High Cost: </h4>
+      <p class="w3-text-grey">The increased consumption of water can lead to significant increases in the cost of water bills.</p><br>
+    
+      <h4>Limited Supply:</h4>
+      <p class="w3-text-grey">: The high demand for water in the campus can result in the limited supply of water..</p><br>
+    
+      <h4>Environmental impact:</h4>
+      <p class="w3-text-grey">Water wastage in the campus can have a negative impact on the environment. Excessive water usage can lead to pollution, harmful algal blooms, and loss of natural resources.</p><br>
+    
+      <h4>Lack of availability:</h4>
+      <p class="w3-text-grey"> Water wastage in the LPU campus can lead to the shortage of available water. This can result in a scarcity of water for various purposes, such as for agriculture and residential use.</p><br>
+    
+      <h4>Low-quality water:</h4>
+      <p class="w3-text-grey"> Excessive water usage in the campus can result in a decline in the quality of the available water.</p>    
+    </div>
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="https://www.mapsofindia.com/ci-moi-images/my-india/2014/04/water-scarcity-images.jpg" class="w3-round w3-image w3-opacity-min" style="width:100%">
+      <img src="https://madeblue.org/wp-content/uploads/2021/04/BR9091-2-scaled.jpg" class="w3-round w3-image w3-opacity-min" style="width:100%">
+      <img src="https://www.preventionweb.net/sites/default/files/styles/landscape_16_9/public/2021-09/shutterstock_1205889976.jpg?h=22ced3b9&itok=khMiOA4L" class="w3-round w3-image w3-opacity-min" style="width:100%">
+
+    </div>
+  </div>
+  <hr>
+  <div class="w3-row w3-padding-64" id="menu">
+    <div class="w3-col l6 w3-padding-large">
+      <h1 class="w3-center">Possible Solutions</h1><br>
+      <h4>Replace Old Water Taps and Faucets: </h4>
+      <p class="w3-text-grey">One of the major causes of water wastage is old, leaking faucets and taps. By replacing these with energy-efficient ones, the community can significantly reduce water consumption.</p><br>
+    
+      <h4>Use Drip Irrigation Systems:</h4>
+      <p class="w3-text-grey">In the greenhouses and other areas where plants are grown, it is important to use drip irrigation systems instead of flooding the area. These systems efficiently deliver water to the plants' roots, reducing the overall amount of water used.</p><br>
+    
+      <h4>Conduct Water Audits:</h4>
+      <p class="w3-text-grey"> Regularly conducting water audits can help identify areas where water is being wasted. This can then be addressed by implementing suitable solutions.</p><br>
+    
+      <h4>Raise Awareness Among the Community:</h4>
+      <p class="w3-text-grey"> Educating the LPU community about the importance of conserving water can greatly contribute to reducing water wastage. By creating awareness campaigns, providing training, and rewarding individuals who implement effective water-saving practices, the community can be encouraged to adopt more sustainable water usage habits.</p><br>
+    
+      <h4>Install Water Sensors:</h4>
+      <p class="w3-text-grey">In areas where water consumption is particularly high, such as in kitchens and laundries, water sensors can be installed. These sensors can automatically detect when the water usage exceeds a certain limit, allowing for necessary adjustments to be made.</p>    
+      
+      <h4>Monitor and Report Progress:</h4>
+      <p class="w3-text-grey">To ensure the effectiveness of implemented strategies, it is crucial to monitor and report progress regularly. By sharing these reports with the community, everyone can be held accountable for their water usage and contribute to achieving the campus's water conservation goal.
+        By implementing these measures, the LPU community can collectively take action to prevent water wastage and contribute to a more sustainable future
+      </p>
+     </div>
+  
+    
+    <div class="w3-col l6 w3-padding-large">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZI-4JvxlwJuKwMCakbwEXOBaEC2TaFmMpRPSLIx3SR65j4WlDYBO2TixH3a0EoUtz4Ic&usqp=CAU" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+      <img src="https://www.treehugger.com/thmb/o4FLnL-BFaUN5JmLXvUCi3xmjp8=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/watersavingtips-30fe7195215d4dfba0e2b20f156c9a5b.png" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+      <img src="https://images.jdmagicbox.com/quickquotes/images_main/drip-irrigation-systems-363069134-52dgd.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+    </div>
+    <div class="w3-row w3-padding-64" id="menu">
+      <div class="w3-col l6 w3-padding-large">
+        <h1 class="w3-center">Outcomes</h1><br>
+        <p class="w3-text-grey">Implementing these solutions would result in several positive outcomes, including:</p>
+        <h4>Enhanced Campus Aesthetics:</h4>
+        <p class="w3-text-grey">A significant reduction in water usage will lead to fewer broken or leaking pipes. This will contribute to the overall beauty and appearance of the campus.</p><br>
+      
+        <h4>Sustainable Environment:</h4>
+        <p class="w3-text-grey"> Reducing water waste in LPU campus will help conserve natural resources. Additionally, reducing water usage will indirectly reduce the carbon footprint of the institution.</p><br>
+      
+        <h4>Economic Savings:</h4>
+        <p class="w3-text-grey">The savings realized from reduced water bills can be used for various campus improvements, including new facilities and equipment.</p><br>
+      
+        <h4>Reduced Waste Disposal:</h4>
+        <p class="w3-text-grey">With reduced water usage, there will be less water-related waste to dispose of. This can contribute to the overall reduction of waste on campus.</p><br>
+      
+        <h4>Stronger Environmental Management:</h4>
+        <p class="w3-text-grey"> Adopting a proactive approach to address water wastage in LPU campus will demonstrate the institution's commitment to sustainable practices and responsible environmental management.</p>    
+        </div>
+        <div class="w3-col l6 w3-padding-large">
+          <img src="https://etimg.etb2bimg.com/photo/95217315.cms" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+          <img src="https://images.moneycontrol.com/static-mcnews/2022/10/Savings-accounts-2-770x433.png?impolicy=website&width=770&height=431" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+          <img src="https://5.imimg.com/data5/LD/YA/UP/SELLER-1191445/environmental-sustainability.jpg" class="w3-round w3-image w3-opacity-min" alt="Menu" style="width:100%">
+        </div>
+      </div>
+  <!-- Contact Section -->
+  <div class="w3-container w3-padding-64" id="contact">
+    <h1>Contact</h1><br>
+    <p>For more information.</p>
+    <p class="w3-text-blue-grey w3-large"><b>Lovely Professional university,Phagwara,Punjab,India</b></p>
+    <p>You can also contact us by phone 1234567890 or you can send us a message here:</p>
+    <form action="/action_page.php" target="_blank">
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Name" required name="Name"></p>
+      <p><input class="w3-input w3-padding-16" type="number" placeholder="How many people" required name="People"></p>
+      <p><input class="w3-input w3-padding-16" type="datetime-local" placeholder="Date and time" required name="date" value="2020-11-16T20:00"></p>
+      <p><input class="w3-input w3-padding-16" type="text" placeholder="Message \ Special requirements" required name="Message"></p>
+      <p><button class="w3-button w3-light-grey w3-section" type="submit">SEND MESSAGE</button></p>
+    </form>
+  </div>
+  
+<!-- End page content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-center w3-light-grey w3-padding-32">
+  <p>Powered by <a href="" title="WaterWastageInCampus" target="_blank" class="w3-hover-text-green">Ayush,Pushkar,Reyanshu</a></p>
+</footer>
+
+</body>
+</html>
