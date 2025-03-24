@@ -1,6 +1,4 @@
-Sure! Here is a professional and interesting description for a GitHub repository focused on a water waste management system:
 
----
 
 # Water Waste Management System
 
@@ -35,7 +33,7 @@ We welcome contributions from the community! Please read our [contributing guide
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any inquiries or support, please contact [Bhavishya Verma](mailto:bhavishyaverma450@example.com).
+For any inquiries or support, please contact [Bhavishya Verma](mailto:bhavishyaver50@gmail.com).
 
 ---
 
